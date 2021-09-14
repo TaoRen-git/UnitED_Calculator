@@ -23,54 +23,87 @@ United Unit conversion calculator
 4. If a team loses they are eliminated and have no more games
 5. A team’s rank does not change throughout all of the games
 ---
-## ERD
-<center>
-    <img alin = "center" src="./demo/ERD.png">
-</center>
 
----
+
+
 ## Getting Started
 
 ### Dependencies
 1. Download and install [Java](https://www.java.com/en/)
-2. Download ```unitED-1.0.0.jar``
+2. Download ```unitED-1.0.0.jar```
 
 ### Run the Program
-1. Double click ```unitED-1.0.0.jar``
-2. Calculator appears which should look like:
+* Double click ```unitED-1.0.0.jar``` then the calculator shows up, which should looks like:
 <center>
-    <img alin = "center" src="./demo/ERD.png">
-</center>
-
-### Insert Sample Data
-* Executing SQL Statements from ```DB_DML.sql```
-
----
-## Demo
-### Sample Data
-<center>
-    <img alin = "center" src="./demo/Data1.png">
-</center>
-<center>
-    <img alin = "center" src="./demo/Data2.png">
-</center>
-<center>
-    <img alin = "center" src="./demo/Data3.png">
+    <img alin = "center" src="./image/unitED.png">
 </center>
 
 ---
+## Menu Bar
 
-### Sample Queries
+### File
+1. Clicking on **File** in the menu bar will present you with an option to ```Print```.
+2. Clicking on 'Print' will then open a window where you can choose the printer you would like to print from and change other settings about what is printed.
+3. Once you are ready to print, click the highlighted 'Print' button to print out the calculation history.
+
 <center>
-    <img alin = "center" src="./demo/Query1.png">
+    <img alin = "center" src="./image/print.png">
 </center>
+
+### Help
+1. Clicking on 'Help' in the menu bar will present you with two options: 'Help' and 'About'. 
+2. 'Help' brings you to this page and gives helpful information about using the product.
+3. 'About' will pop open a window that gives about information for the product.
+
 <center>
-    <img alin = "center" src="./demo/Query2.png">
+    <img alin = "center" src="./image/unitED.png">
 </center>
 
----
+### File
+* Clicking on 'File' in the menu bar will present you with an option to 'Print'. Clicking on 'Print' will then open a window where you can choose the printer you would like to print from and change other settings about what is printed. Once you are ready to print, click the highlighted 'Print' button to print out the calculation history.
 
-### Sample Trigger
 <center>
-    <img alin = "center" src="./demo/Trigger.png">
+    <img alin = "center" src="./image/unitED.png">
+</center>
+
+### File
+* Clicking on 'File' in the menu bar will present you with an option to 'Print'. Clicking on 'Print' will then open a window where you can choose the printer you would like to print from and change other settings about what is printed. Once you are ready to print, click the highlighted 'Print' button to print out the calculation history.
+
+<center>
+    <img alin = "center" src="./image/unitED.png">
+</center>
+
+### File
+* Clicking on 'File' in the menu bar will present you with an option to 'Print'. Clicking on 'Print' will then open a window where you can choose the printer you would like to print from and change other settings about what is printed. Once you are ready to print, click the highlighted 'Print' button to print out the calculation history.
+
+<center>
+    <img alin = "center" src="./image/unitED.png">
+</center>
+
+### File
+* Clicking on 'File' in the menu bar will present you with an option to 'Print'. Clicking on 'Print' will then open a window where you can choose the printer you would like to print from and change other settings about what is printed. Once you are ready to print, click the highlighted 'Print' button to print out the calculation history.
+
+<center>
+    <img alin = "center" src="./image/unitED.png">
+</center>
+
+### File
+* Clicking on 'File' in the menu bar will present you with an option to 'Print'. Clicking on 'Print' will then open a window where you can choose the printer you would like to print from and change other settings about what is printed. Once you are ready to print, click the highlighted 'Print' button to print out the calculation history.
+
+<center>
+    <img alin = "center" src="./image/unitED.png">
+</center>
+
+### File
+* Clicking on 'File' in the menu bar will present you with an option to 'Print'. Clicking on 'Print' will then open a window where you can choose the printer you would like to print from and change other settings about what is printed. Once you are ready to print, click the highlighted 'Print' button to print out the calculation history.
+
+<center>
+    <img alin = "center" src="./image/unitED.png">
+</center>
+
+### File
+* Clicking on 'File' in the menu bar will present you with an option to 'Print'. Clicking on 'Print' will then open a window where you can choose the printer you would like to print from and change other settings about what is printed. Once you are ready to print, click the highlighted 'Print' button to print out the calculation history.
+
+<center>
+    <img alin = "center" src="./image/unitED.png">
 </center>
