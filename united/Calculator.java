@@ -156,7 +156,7 @@ public class Calculator extends JFrame implements ActionListener, ComponentListe
    */
   private void setupLogo()
   {
-    ImageIcon icon = new ImageIcon(getClass().getResource("unitED_Logo.png"));
+    ImageIcon icon = new ImageIcon(getClass().getResource("../logo/unitED_Logo.png"));
     imageLabel = new JLabel("", resizeImage(icon), JLabel.LEFT);
     imageLabel.setBorder(BorderFactory.createEmptyBorder(40, 20, 0, 0));
   }
@@ -215,7 +215,7 @@ public class Calculator extends JFrame implements ActionListener, ComponentListe
     if (command.equals("About"))
     {
       JFrame about = new JFrame("unitED v1.0.0");
-      ImageIcon icon = new ImageIcon("unitED_Logo.png", "Logo");
+      ImageIcon icon = new ImageIcon("../logo/unitED_Logo.png", "Logo");
       JLabel aboutImage = new JLabel("", resizeImage(icon), JLabel.CENTER);
 
       about.setLayout(new BorderLayout());
